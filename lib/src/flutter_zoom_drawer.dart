@@ -13,7 +13,7 @@ typedef DrawerStyleBuilder = Widget Function(
   double animationValue,
   double slideWidth,
   Widget menuScreen,
-  Widget mainScreen,
+  Widget mainScreen ,
 );
 
 class ZoomDrawer extends StatefulWidget {
